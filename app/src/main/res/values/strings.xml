@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Thermal Printer Example</string>
+    <string name="eneter_text_to_print">Enter Text here to print</string>
+    <string name="print">PRINT</string>
+</resources>
